@@ -1,5 +1,5 @@
 # your domain
-domain: wxf2088.ga
+domain: wxfyes.herokuapp.com
 
 # database url
 database_url: ""
@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://wxf2088.ga/source.yaml
+  - https://wxfyes.herokuapp.com/source.yaml
